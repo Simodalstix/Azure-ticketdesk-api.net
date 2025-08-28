@@ -8,6 +8,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Testcontainers.PostgreSql;
 using TicketDesk.Api.Data;
 using TicketDesk.Api.Models;
+using Xunit;
 
 namespace TicketDesk.Tests.Integration;
 

@@ -1,6 +1,7 @@
 using FluentAssertions;
 using TicketDesk.Api.Models;
 using TicketDesk.Api.Validators;
+using Xunit;
 
 namespace TicketDesk.Tests.Unit;
 

@@ -131,3 +131,5 @@ if (args.Contains("--migrate"))
 }
 
 app.Run();
+
+public partial class Program { }
